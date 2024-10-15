@@ -17,4 +17,3 @@ Works on any platform that supports Java.
 ### Prerequisites
 To run Typad, make sure you have the following installed:
 Java Runtime Environment (JRE) 8 or later.
-You can download Java from here.
